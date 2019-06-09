@@ -1,0 +1,5 @@
+threadMessage: 
+
+3
+[Message(text='Tình nhân ơi', mentions=[], emoji_size=None, uid='mid.$cAAAADMIJXU9xVCBqBlrItsgBZYWR', author='100023348531077', timestamp='1559657914886', is_read=True, read_by=['100005128032970', '100023348531077'], reactions={}, sticker=None, attachments=[], quick_replies=[], unsent=False, reply_to_id=None, replied_to=None), Message(text='Tình nhân ơi', mentions=[], emoji_size=None, uid='mid.$cAAAADMIJXU9xVCBlx1rItsaH1xaR', author='100005128032970', timestamp='1559657913799', is_read=True, read_by=['100005128032970', '100023348531077'], reactions={}, sticker=None, attachments=[], quick_replies=[], unsent=False, reply_to_id=None, replied_to=None), Message(text='Mệt mỏi', mentions=[], emoji_size=None, uid='mid.$cAAAADMIJXU9xVCBLh1rItsBj9gBU', author='100023348531077', timestamp='1559657907079', is_read=True, read_by=['100005128032970', '100023348531077'], reactions={}, sticker=None, attachments=[], quick_replies=[], unsent=False, reply_to_id=None, replied_to=None)]
+[Finished in 10.2s]
